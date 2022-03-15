@@ -1,5 +1,5 @@
 # Made by caglakndmr @GitHub
-# A mini project for basic RFM customer segmentation, to better understand the concept.
+# A mini project for CLTV customer segmentation, to better understand the concept.
 
 
 # Dataset used
